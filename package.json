@@ -1,0 +1,27 @@
+{
+  "name": "js-replace-all",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha"
+  },
+  "author": "Aciobanitei Constantin",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aciobanitei/js-replace-all"
+  },
+  "bugs": {
+    "url": "https://github.com/aciobanitei/js-replace-all/issues"
+  },
+  "homepage": "https://github.com/aciobanitei/js-replace-all#readme"
+}

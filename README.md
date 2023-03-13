@@ -1,6 +1,3 @@
-# js-replace-all
-Function for replace all ocurence of a string for NodeJS versions older than 15
-
 # `js-replace-all`
 
 Function for replace all ocurence of a string for NodeJS versions older than 15
@@ -19,3 +16,5 @@ const diacritics = require("js-replace-all");
 diacritics.traditional("123/123/123/123/123", "/", "-");
   // Output: 123-123-123-123-123
 ```
+
+
